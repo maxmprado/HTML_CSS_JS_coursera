@@ -1,27 +1,24 @@
-div > p {
+p {
 color:blue;
 font-family: courier;
+font-size: 70%;
+align-content: center;
 }
 
-div.fr{
-background-color: #D3D3D3;
-float: right;
-box-sizing: content-box;
-}
-
-
-div.fl{
-background-color: #D3D3D3;
-box-sizing: content-box;
-}
-
-
-div.fc{
+div.cd{
 background-color: #D3D3D3;
 float: left;
-box-sizing: content-box;
-border: 2px solid powderblue;
-margin: 50px;
+box-sizing: border-box;
+border: 2px solid black;
+margin: 20px;
+padding: 20px;
+height: 200px;
+width: 350px;
+}
+
+div.title {
+margin-left: 500 px;
+padding-left: 500px;
 }
 
 h1 {
@@ -31,5 +28,6 @@ h1 {
 
 h2 {
   width: bold;
-  align: center;
+  align: left;
+  color: red;
 }
