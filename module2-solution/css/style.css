@@ -4,16 +4,19 @@ color:blue;
 
 div.fr{
 background-color: #D3D3D3;
+float: right;
 }
 
 
 div.fl{
 background-color: #D3D3D3;
+clear: both;
 }
 
 
 div.fc{
 background-color: #D3D3D3;
+float: left;
 }
 
 h1 {
