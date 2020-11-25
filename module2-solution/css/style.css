@@ -8,10 +8,10 @@ background-color: #D3D3D3;
 
 h1 {
   width: bold;
-  align: center;
+  align: "center";
 }
 
 h2 {
   width: bold;
-  align: center;
+  align: "center";
 }
