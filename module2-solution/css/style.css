@@ -1,10 +1,12 @@
 div > p {
 color:blue;
+font-family: courier;
 }
 
 div.fr{
 background-color: #D3D3D3;
 float: right;
+box-sizing: content-box;
 }
 
 
